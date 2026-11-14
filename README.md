@@ -102,8 +102,6 @@ Eugui_Guillermo_Actividad_Eva_01/
 3. Ábrelo con **Unity `6000.3.19f1`** (o una versión compatible de Unity 6).
 4. Carga la escena `Assets/Scenes/SampleScene.unity` y pulsa **Play**.
 
-> **Nota para GitHub:** La carpeta `Build/` contiene el ejecutable compilado para Windows (`Actividad Evaluativa 01.exe`) y no suele incluirse en el control de versiones (puede subirse como *Release* en GitHub si se desea compartir la build). Se recomienda usar un `.gitignore` estándar de Unity antes de hacer el primer commit para evitar subir `Library/`, `Temp/`, `Logs/` o `Build/`.
-
 ---
 
 ## Assets y recursos utilizados
