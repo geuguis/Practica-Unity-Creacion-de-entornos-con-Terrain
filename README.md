@@ -94,14 +94,20 @@ Eugui_Guillermo_Actividad_Eva_01/
 
 ## Cómo abrir y ejecutar el proyecto
 
+### Opción 1: Ejecutar la build compilada (Windows)
+Si solo quieres probar el proyecto sin abrir Unity:
+1. Ve a la sección de [**Releases**](https://github.com/geuguis/Practica-Unity-Creacion-de-entornos-con-Terrain/releases) del repositorio.
+2. Descarga el archivo `.zip` de la última versión (`v1.0.0`).
+3. Descomprime el contenido y ejecuta **`Actividad Evaluativa 01.exe`**.
+
+### Opción 2: Abrir el proyecto en Unity
 1. Clona este repositorio en tu equipo:
    ```bash
-   git clone <URL-DEL-REPOSITORIO>
+   git clone https://github.com/geuguis/Practica-Unity-Creacion-de-entornos-con-Terrain.git
    ```
 2. Abre **Unity Hub** y selecciona **Add > Add project from disk** apuntando a la carpeta raíz del proyecto.
 3. Ábrelo con **Unity `6000.3.19f1`** (o una versión compatible de Unity 6).
 4. Carga la escena `Assets/Scenes/SampleScene.unity` y pulsa **Play**.
-
 ---
 
 ## Assets y recursos utilizados
